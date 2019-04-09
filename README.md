@@ -1,6 +1,6 @@
 # DeformConvnet-pytorch-chapter4
 
-The chapter3 of the segmentation network summary: 
+The chapter4 of the segmentation network summary: 
 ### Pay attention to the internal structure of CNN.
 
 External links: Deformable Convolutional Networks [paper](https://arxiv.org/abs/1703.06211).
