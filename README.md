@@ -11,7 +11,8 @@ As far as I am concerned, the idea of this paper is particularly excellent and n
 
 The illustration in the paper:
 
-![image](https://github.com/hydxqing/SegAN-Pytorch-chapter3/blob/master/picture_in_paper/picture.png)
+![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_convolution.png)
+![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_RoI_pooling.png)
 
 We modified the code and embedded the deformable convolutional layer into the EDANet model, successfully trained and tested our own data set.
 
@@ -24,4 +25,5 @@ This code borrows from [Wei Ouyang](https://github.com/oeway)'s [work](https://g
             Pytorch version >> 0.4.1; [Python 2.7]
             
 ## Notes
-
+1. Someone once said something that I think is great: The weight method is replaced by the bilinear method, that is, the sampling method instead of the weight method. This thinking can be spread out to do more work.
+2. Some blogs: https://www.cnblogs.com/daihengchen/p/6880774.html
