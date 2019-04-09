@@ -3,7 +3,7 @@
 The chapter3 of the segmentation network summary: 
 ### Pay attention to the internal structure of CNN.
 
-External links: Deformable Convolutional Networks [paper](https://arxiv.org/abs/1703.06211)
+External links: Deformable Convolutional Networks [paper](https://arxiv.org/abs/1703.06211).
 
 Nowadays, a lot of CNN networks perform very well in image segmentation and classification. However, we should not only focus on how to build a CNN network architecture efficiently, but also pay attention to the implementation of the internal structure of CNN.
 
@@ -14,7 +14,7 @@ The illustration in the paper:
 ![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_convolution.png)
 ![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_RoI_pooling.png)
 
-We modified the code and embedded the deformable convolutional layer into the EDANet model, successfully trained and tested our own data set.
+> We modified the code and embedded the deformable convolutional layer into the EDANet(We'll talk about it later) model, successfully trained and tested our own data set.
 
 ***References***
 
