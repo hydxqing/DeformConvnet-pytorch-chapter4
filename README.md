@@ -14,7 +14,7 @@ The illustration in the paper:
 ![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_convolution.png)
 ![image](https://github.com/hydxqing/DeformConvnet-pytorch-chapter4/blob/master/picture_in_paper/deformable_RoI_pooling.png)
 
-###### We modified the code and embedded the deformable convolutional layer into the EDANet(We'll talk about it later) model, successfully trained and tested our own data set.
+##### We modified the code and embedded the deformable convolutional layer into the EDANet(We'll talk about it later) model, successfully trained and tested our own data set.
 
 ***References***
 
